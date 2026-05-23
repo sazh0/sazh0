@@ -8,7 +8,6 @@
 - 📊 Business Intelligence • Data Analytics • AI
 - 🚀 Building digital products • dashboards • smart systems
 
----
 
 <div align="center">
   <img src="images/AboutMe.gif" alt="AWJ Platform Preview" width="100%"/>

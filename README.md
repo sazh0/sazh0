@@ -10,7 +10,9 @@
 
 ---
 
-## About Me
+<div align="center">
+  <img src="images/AboutMe.gif" alt="AWJ Platform Preview" width="100%"/>
+</div>
 
 I’m passionate about turning ideas and messy data into useful, beautiful, and scalable solutions.
 

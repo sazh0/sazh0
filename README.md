@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/BeeIntro.gif" alt="AWJ Platform Preview" width="97%"/>
+  <img src="images/BeeIntro.gif" alt="AWJ Platform Preview" width="100%"/>
 </div>
 
 # Hi, I'm Sara 👋🏼

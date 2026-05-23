@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/BeeIntro.gif" alt="AWJ Platform Preview" width="97%"/>
+</div>
+
 # Hi, I'm Sara 👋🏼
 
 - 🎓 Computer Science Graduate with First Class Honors

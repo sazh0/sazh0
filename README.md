@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="images/BeeIntro.gif" alt="AWJ Platform Preview" width="100%"/>
-</div>
-
 # Hi, I'm Sara 👋🏼
 
 - 🎓 Computer Science Graduate with First Class Honors
@@ -9,9 +5,7 @@
 - 🚀 Building digital products • dashboards • smart systems
 
 
-<div align="center">
-  <img src="images/AboutMe.gif" alt="AWJ Platform Preview" width="100%"/>
-</div>
+## About Me
 
 I’m passionate about turning ideas and messy data into useful, beautiful, and scalable solutions.
 
